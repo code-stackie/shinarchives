@@ -27,7 +27,7 @@ tagline: collection of stuff
 # this description might appear in search result lists, keep around 160 characters max
 description: "Shin's Archives is a demo collection website of my archive and collection"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: code-stackie
 
 ##########
 # COLLECTION SETTINGS
